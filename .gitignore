@@ -1,0 +1,6 @@
+# Directories
+dist
+out
+
+# Files
+*.log*
